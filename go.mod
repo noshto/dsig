@@ -1,4 +1,4 @@
-module dsig
+module github.com/noshto/dsig
 
 go 1.15
 
