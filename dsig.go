@@ -3,8 +3,9 @@ package dsig
 import (
 	"crypto"
 	"crypto/x509"
-	"dsig/pkg/signedxml"
 	"encoding/base64"
+
+	"github.com/noshto/dsig/pkg/signedxml"
 
 	"github.com/beevik/etree"
 )
