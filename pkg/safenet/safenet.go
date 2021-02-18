@@ -33,8 +33,8 @@ func init() {
 
 // Config contains properties needed for cnfiguration of the SafeNet library
 type Config struct {
-	LibPath   string
-	UnlockPin string
+	LibPath   string `json:"LibPath"`
+	UnlockPin string `json:"UnlockPin"`
 }
 
 // SafeNet incapsulates necessary primitives needed for digital sign and verify
