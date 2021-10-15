@@ -12,3 +12,5 @@ github.com/noshto/sep v0.0.17 h1:4Ww/lirYSAbv3yh1g4QTGnH/MiExQv6PvhuibDbTCAM=
 github.com/noshto/sep v0.0.17/go.mod h1:o34LxYoCqnrpwjfLkVL+PsET6M6THS2bntmXxtu32a8=
 github.com/noshto/sep v0.0.18 h1:j04Kw1OA/dIjr/aRFOXbkwSlwvEr8r6Kh8D4trFPobU=
 github.com/noshto/sep v0.0.18/go.mod h1:o34LxYoCqnrpwjfLkVL+PsET6M6THS2bntmXxtu32a8=
+github.com/noshto/sep v0.0.21 h1:8/3k1UU7QhpLorpHyhOjfLoK4ley5mWECCHxYjFfzOI=
+github.com/noshto/sep v0.0.21/go.mod h1:o34LxYoCqnrpwjfLkVL+PsET6M6THS2bntmXxtu32a8=
